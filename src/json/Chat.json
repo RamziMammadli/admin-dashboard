@@ -1,0 +1,53 @@
+{
+    "kullanicilar": [
+      {
+        "id": 1,
+        "ad": "Ahmet",
+        "mesajlar": [
+          {
+            "id": 1,
+            "gonderenId": 1,
+            "aliciId": 2,
+            "mesaj": "Merhaba, nasılsın?"
+          },
+          {
+            "id": 2,
+            "gonderenId": 2,
+            "aliciId": 1,
+            "mesaj": "Merhaba Ahmet, iyiyim teşekkürler. Siz nasılsınız?"
+          },
+          {
+            "id": 3,
+            "gonderenId": 1,
+            "aliciId": 2,
+            "mesaj": "Ben de iyiyim, teşekkür ederim."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "ad": "Mehmet",
+        "mesajlar": [
+          {
+            "id": 4,
+            "gonderenId": 2,
+            "aliciId": 1,
+            "mesaj": "Selam, ne yapıyorsun?"
+          },
+          {
+            "id": 5,
+            "gonderenId": 1,
+            "aliciId": 2,
+            "mesaj": "Merhaba Mehmet, çalışıyorum. Siz?"
+          },
+          {
+            "id": 6,
+            "gonderenId": 2,
+            "aliciId": 1,
+            "mesaj": "Ben de işteyim. İyi çalışmalar!"
+          }
+        ]
+      }
+    ]
+  }
+  

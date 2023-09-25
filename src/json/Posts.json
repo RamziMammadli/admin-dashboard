@@ -1,0 +1,387 @@
+{
+    "data": [
+      {
+        "id": "D6FD3183-0A84-423C-925E-473F34DDB545",
+        "content": "Salam Test 2",
+        "brend": {
+          "id": "710C6574-FBA4-46F7-961A-BEA8315A46D2",
+          "name": "Bir İki Dönər",
+          "normalizationName": "BIR_IKI_DONER",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/bir_iki_doner.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558439273",
+          "userName": "ravanzakar",
+          "name": "Ravan",
+          "surname": "Zakaryali",
+          "profileImage": null
+        },
+        "createdDate": "2023-09-06T20:14:56.8850246",
+        "imageCount": 0,
+        "viewCount": 1,
+        "likeCount": 2,
+        "commentCount": 2,
+        "images": []
+      },
+      {
+        "id": "B1E4866E-E4FD-450A-BB93-E808023486E1",
+        "content": "Granddanki balaca qara çörəklərin qiyməti kəllə çarxa çıxıb . 95 qəpik\n",
+        "brend": {
+          "id": "3A3EA139-9653-499A-8B4F-86F431FEAADB",
+          "name": "Grand Market",
+          "normalizationName": "GRAND_MARKET",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/grand_market.png"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558780701",
+          "userName": "remzimemme",
+          "name": "Rəmzi",
+          "surname": "Məmmədli",
+          "profileImage": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp9cdbfd5c_1632_4fb4_874e_4d4ac27a7900.2023_10_6_15_11_01..jpg"
+        },
+        "createdDate": "2023-08-28T13:04:50.7096178",
+        "imageCount": 4,
+        "viewCount": 1,
+        "likeCount": 2,
+        "commentCount": 0,
+        "images": [
+          {
+            "id": "2FD72AEB-6D2C-43E5-A9EA-990039383C01",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp834e4ccc_2255_456e_b41c_c11ba83ea413.2023_28_8_09_04_49..jpg",
+            "width": 900,
+            "height": 1600
+          },
+          {
+            "id": "4675DCE7-437B-40B2-898F-881AD033766A",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtempfb0d05a8_7bbe_45de_86cd_8ed9de20518b.2023_28_8_09_04_49..jpg",
+            "width": 1080,
+            "height": 2400
+          },
+          {
+            "id": "C20BED64-20A3-49F3-9CC7-865FBBBA7267",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp0ab1c2e8_d696_48b1_ad1a_37a45a41f5e1.2023_28_8_09_04_50..jpg",
+            "width": 1080,
+            "height": 2400
+          },
+          {
+            "id": "D3205633-1D21-4378-AF24-3ED06E7B4660",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtempba0e3805_b5ee_4abb_9703_7344ac79f80c.2023_28_8_09_04_50..jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        ]
+      },
+      {
+        "id": "222DEC28-233F-4793-BE06-38363E90308A",
+        "content": "Test 4",
+        "brend": {
+          "id": "AC3C8E82-9A80-493E-8A81-35A1F71ADC5B",
+          "name": "Code Academy",
+          "normalizationName": "CODE_ACADEMY",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/code_academy.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558439273",
+          "userName": "ravanzakar",
+          "name": "Ravan",
+          "surname": "Zakaryali",
+          "profileImage": null
+        },
+        "createdDate": "2023-08-09T06:55:47.4833645",
+        "imageCount": 6,
+        "viewCount": 2,
+        "likeCount": 2,
+        "commentCount": 4,
+        "images": [
+          {
+            "id": "376E1CB2-9EF0-43CE-BFBF-70355A0EBEFA",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/tree_7368851280_1.2023_09_8_02_55_46..jpg",
+            "width": 1280,
+            "height": 797
+          },
+          {
+            "id": "4377EF74-7E15-4FF5-B640-76ACFCEA7190",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/2560x1080_924281_minimalism_red_simple_background_digital_art.2023_09_8_02_55_45..png",
+            "width": 1918,
+            "height": 1078
+          },
+          {
+            "id": "6AEAC0E4-5F3F-4A61-A563-321BA60A13FB",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/83125_mountains_moon_artist_artwork_digital_art_hd.2023_09_8_02_55_45..jpg",
+            "width": 2560,
+            "height": 1440
+          },
+          {
+            "id": "9A720212-7678-41EC-90CE-80963B2C0D80",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/wallpaperbetter.com1680x1050.2023_09_8_02_55_46..jpg",
+            "width": 1680,
+            "height": 1050
+          },
+          {
+            "id": "A1917179-5A7A-4F29-B64B-9C53B476A854",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/frame_33550.2023_09_8_02_55_46..png",
+            "width": 900,
+            "height": 900
+          },
+          {
+            "id": "DEBEDFE9-EA29-4A8B-B915-5631C142C4DD",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/pexels_pixabay_268533.2023_09_8_02_55_46..jpg",
+            "width": 1920,
+            "height": 1278
+          }
+        ]
+      },
+      {
+        "id": "ACD5A0B2-8BE9-4DCF-83AB-A6D169327989",
+        "content": "Test 2",
+        "brend": {
+          "id": "AC3C8E82-9A80-493E-8A81-35A1F71ADC5B",
+          "name": "Code Academy",
+          "normalizationName": "CODE_ACADEMY",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/code_academy.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558439273",
+          "userName": "ravanzakar",
+          "name": "Ravan",
+          "surname": "Zakaryali",
+          "profileImage": null
+        },
+        "createdDate": "2023-08-09T00:12:07.5765855",
+        "imageCount": 4,
+        "viewCount": 1,
+        "likeCount": 1,
+        "commentCount": 0,
+        "images": [
+          {
+            "id": "000D0FD1-1F08-4583-A9BE-8EE2AAEE7D5B",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/83125_mountains_moon_artist_artwork_digital_art_hd.2023_08_8_20_12_07..jpg",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": "1CA09E9C-9C41-4C5A-941F-36A34DC27C75",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/frame_33550.2023_08_8_20_12_07..png",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": "2B5DACEC-8D03-4A22-9C8D-8FE33DB688F3",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/2560x1080_924281_minimalism_red_simple_background_digital_art.2023_08_8_20_12_07..png",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": "F4AAA96C-7D5F-4D1F-AA75-5B3485F1FC32",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/29731189328415806661515167417858412494977278n.2023_08_8_20_12_07..jpg",
+            "width": null,
+            "height": null
+          }
+        ]
+      },
+      {
+        "id": "DFD7A791-E7B6-48D4-B6ED-5ED740718E86",
+        "content": "Test 2",
+        "brend": {
+          "id": "AC3C8E82-9A80-493E-8A81-35A1F71ADC5B",
+          "name": "Code Academy",
+          "normalizationName": "CODE_ACADEMY",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/code_academy.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558439273",
+          "userName": "ravanzakar",
+          "name": "Ravan",
+          "surname": "Zakaryali",
+          "profileImage": null
+        },
+        "createdDate": "2023-08-09T00:08:15.3163744",
+        "imageCount": 3,
+        "viewCount": 1,
+        "likeCount": 2,
+        "commentCount": 0,
+        "images": [
+          {
+            "id": "53BA35F1-E653-4C1D-82C1-008ADCEB591C",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/frame_33550.2023_08_8_20_08_15..png",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": "636074C8-692D-4410-9D90-78F4231056C6",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/83125_mountains_moon_artist_artwork_digital_art_hd.2023_08_8_20_08_15..jpg",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": "DD247334-85E3-498D-BCBC-D8D658231970",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/2560x1080_924281_minimalism_red_simple_background_digital_art.2023_08_8_20_08_15..png",
+            "width": null,
+            "height": null
+          }
+        ]
+      },
+      {
+        "id": "879569BB-E1C7-4F2B-9514-75275A4981CC",
+        "content": "Salam",
+        "brend": {
+          "id": "AC3C8E82-9A80-493E-8A81-35A1F71ADC5B",
+          "name": "Code Academy",
+          "normalizationName": "CODE_ACADEMY",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/code_academy.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558439273",
+          "userName": "ravanzakar",
+          "name": "Ravan",
+          "surname": "Zakaryali",
+          "profileImage": null
+        },
+        "createdDate": "2023-08-06T14:12:35.8167479",
+        "imageCount": 1,
+        "viewCount": 1,
+        "likeCount": 1,
+        "commentCount": 0,
+        "images": [
+          {
+            "id": "C0CB4E7D-76D9-4302-97C1-FE9A9C251AF9",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp5d14a78a_9017_4568_aefe_6bd9b8da5a4a.2023_06_8_10_12_35..jpg",
+            "width": null,
+            "height": null
+          }
+        ]
+      },
+      {
+        "id": "418FDBB2-BECA-4017-B446-1C2747B9DEA1",
+        "content": "Yanımdakı fırıldaqçını polisə vermişəm hələ tapmayıblar",
+        "brend": {
+          "id": "09FEF345-082A-4B2F-917F-CB9F5205B769",
+          "name": "PAUL",
+          "normalizationName": "PAUL",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/paul.png"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558780701",
+          "userName": "remzimemme",
+          "name": "Rəmzi",
+          "surname": "Məmmədli",
+          "profileImage": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp9cdbfd5c_1632_4fb4_874e_4d4ac27a7900.2023_10_6_15_11_01..jpg"
+        },
+        "createdDate": "2023-07-25T18:34:04.2286966",
+        "imageCount": 1,
+        "viewCount": 1,
+        "likeCount": 2,
+        "commentCount": 0,
+        "images": [
+          {
+            "id": "299400DF-36A2-4D3A-8C3A-787860FE9B95",
+            "path": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp00c10d83_fff3_4b49_906d_3769d033a813.2023_25_7_14_34_04..jpg",
+            "width": null,
+            "height": null
+          }
+        ]
+      },
+      {
+        "id": "BB662B0F-DF7B-4ECE-B8F0-36BC8B0FE894",
+        "content": "Məhsulların etiketindəki qiymətlə kassadaki qiymət arasında fərqlər çox tez-tez olur. Bunu dəfələrlə bilidirməyimizə rəğmən həll olmur. ",
+        "brend": {
+          "id": "42E5AFBE-9DCA-45A4-B53F-408262E1BCFE",
+          "name": "Bravo",
+          "normalizationName": "BRAVO",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/bravo.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994558874083",
+          "userName": "sarahummet",
+          "name": "Sara",
+          "surname": "Hummet",
+          "profileImage": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtempae3db036_0243_4e9b_9dad_e839ce1a40a1.2023_14_6_19_44_58..jpg"
+        },
+        "createdDate": "2023-06-14T23:49:10.9583466",
+        "imageCount": 0,
+        "viewCount": 1,
+        "likeCount": 3,
+        "commentCount": 0,
+        "images": []
+      },
+      {
+        "id": "C1884307-D4BB-434B-9621-D08D1F022766",
+        "content": "İnternet çox tez-tez işləmir, şikayət edəndə telofonlari açmırlar",
+        "brend": {
+          "id": "1D0CC4B5-A073-4F93-9980-4557FDC84A34",
+          "name": "Alfanet",
+          "normalizationName": "ALFANET",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/alfanet.jpg"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994507246174",
+          "userName": "saidahumba",
+          "name": "Səidə",
+          "surname": "Hümbətəliyeva",
+          "profileImage": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp9c2f530e_f205_4cc3_ac43_38ec8b984280.2023_14_6_15_57_46..jpg"
+        },
+        "createdDate": "2023-06-14T20:06:26.8619277",
+        "imageCount": 0,
+        "viewCount": 1,
+        "likeCount": 2,
+        "commentCount": 0,
+        "images": []
+      },
+      {
+        "id": "AF22974B-47C9-4036-BE5B-905D39E3B028",
+        "content": "Internet çox zəifdi. Adi youtube-u aça bilmirik. Gərək hər dəfə zəng eləyək . Düzəlmək bilmirlər",
+        "brend": {
+          "id": "57AFC2A9-0697-4D27-915C-3B4994B30F5F",
+          "name": "Baktelecom",
+          "normalizationName": "BAKTELECOM",
+          "logo": "https://shikayetvar.azurewebsites.net/api/images/baktelecom.png"
+        },
+        "status": "Waiting",
+        "isLiked": false,
+        "isMarked": false,
+        "user": {
+          "phoneNumber": "994557379877",
+          "userName": "samirhaqve",
+          "name": "Samir",
+          "surname": "Haqverdiyev",
+          "profileImage": "https://shikayetvar.azurewebsites.net/api/images/rnimagepickerlibtemp4c61a9bf_201f_420c_badf_3e00f51b52a8.2023_14_6_14_11_58..jpg"
+        },
+        "createdDate": "2023-06-14T18:13:47.7079922",
+        "imageCount": 0,
+        "viewCount": 1,
+        "likeCount": 1,
+        "commentCount": 0,
+        "images": []
+      }
+    ],
+    "count": 22,
+    "size": 10,
+    "page": 1
+  }
